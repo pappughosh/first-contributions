@@ -41,7 +41,7 @@ git clone "url you just copied"
 
 উদাহরণ:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/user_/first-contributions.git
 ```
 এখানে `this-is-you` হচ্ছে আপনার গিটহাব ইউজারনেম। এই কমান্ডটির মাধ্যমে গিটহাবে অবস্থিত first-contributions রিপোজিটরির একটি কপি তৈরি হচ্ছে আপনার কম্পিউটারে।
 
@@ -109,7 +109,7 @@ git push origin <add-your-name>
 
 ## অন্যান্য টুল ব্যবহারের টিউটোরিয়াল
 
-|<a href="../github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/redesign/tools-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
+|<a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="../github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.microsoft.com/net/images/redesign/tools-visual-studio.svg" width="100"></a>|<a href="../gitkraken-tutorial.md"><img alt="GitKraken" src="../assets/gk-icon.png" width="100"></a>|
 |---|---|---|
 |[গিটহাব ডেস্কটপ](../github-desktop-tutorial.md)|[ভিজুয়াল স্টুডিও ২০১৭](../github-windows-vs2017-tutorial.md)|[গিটক্র্যাকেন](../gitkraken-tutorial.md)|
 
